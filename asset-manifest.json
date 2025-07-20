@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FarhanJoyi/warkop-app-web/static/css/main.e6c13ad2.css",
+    "main.js": "/FarhanJoyi/warkop-app-web/static/js/main.94d7a003.js",
+    "static/js/488.a4f0a866.chunk.js": "/FarhanJoyi/warkop-app-web/static/js/488.a4f0a866.chunk.js",
+    "index.html": "/FarhanJoyi/warkop-app-web/index.html",
+    "main.e6c13ad2.css.map": "/FarhanJoyi/warkop-app-web/static/css/main.e6c13ad2.css.map",
+    "main.94d7a003.js.map": "/FarhanJoyi/warkop-app-web/static/js/main.94d7a003.js.map",
+    "488.a4f0a866.chunk.js.map": "/FarhanJoyi/warkop-app-web/static/js/488.a4f0a866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94d7a003.js"
+  ]
+}
